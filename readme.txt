@@ -1,0 +1,1 @@
+Information about the dataset that I used in these codes can be found in https://www.kaggle.com/c/GiveMeSomeCredit
